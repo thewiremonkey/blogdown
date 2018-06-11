@@ -1,0 +1,14 @@
+---
+title: Tidying Up the Metropolitan Museum of Art
+author: Alyssa Goldberg
+date: '2018-06-08'
+slug: tidying-up-the-metropolitan-museum-of-art
+categories:
+  - R
+  - tidyverse
+  - janitor
+  - munging
+tags: []
+---
+#Open Access Data at the Metropolitan Museum  
+In 2017, [The Metropolitan Museum of Art](www.metmuseum.org)in NYC opened its whole collection database to the public and posted it on [GitHub](https://github.com/metmuseum/openaccess) 
